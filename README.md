@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.cursos.vancouvertec.com.br"><img src="https://github.com/vancouvertec/plataforma-curso-laravel/blob/main/imagens/graduacao.png" alt="logo" width="128"></a>
+  <a href="http://www.cursos.vancouvertec.com.br"><img src="https://github.com/rafaelferreira2312/plataforma-curso-laravel/blob/main/imagens/graduacao.png" alt="logo" width="128"></a>
   <br>
    Plataforma de Cursos EAD.
   <br>
